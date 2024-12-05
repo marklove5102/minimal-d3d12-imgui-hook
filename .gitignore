@@ -2,3 +2,6 @@ x64
 Debug
 vcpkg_installed
 .vs
+*.user
+.idea
+.vscode/settings.json

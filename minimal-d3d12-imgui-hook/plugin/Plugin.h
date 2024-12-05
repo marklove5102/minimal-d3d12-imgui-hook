@@ -3,7 +3,7 @@
 class Plugin {
 protected:
 public:
-	virtual void OnLoad() {};
-	virtual void OnUnload() {};
-	virtual void OnDraw() {};
+	virtual void OnLoad() {}
+	virtual void OnUnload() {}
+	virtual void OnDraw() {}
 };
